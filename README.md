@@ -1,6 +1,11 @@
 # Proyecto-CC-20-21
 Proyecto para la asignatura de cloud computing 20/21
 
-## Descripcion del proyecto y problema al que da solucion.
+## Descripción del proyecto y problema al que da solución.
 
-Hoy en día la gente suele jugar a muchos juegos de azar como la primitiva, el euromillones, etc..., Lo cual hace dificil gestionar todos los boletos, asi como con la situacion actual con el covid19, ir a comprobar dichos numeros si tienen premio o no, se hace bastante tedioso por las largas colas. La aplicacion pretende gestionar los numeros jugados y dar aviso de si ha sido premiado, cada boleto o número, sin necesidad de ir fisicamente. Además de recordar al usuario que debe ir a comprar los boletos que elija entre las opciones, para que no se le olvide jugarlos.
+Hoy en día la gente suele jugar a muchos juegos de azar como la primitiva, el euromillones, etc..., Lo cual hace difícil gestionar todos los boletos, así como con la situación actual con el covid19, ir a comprobar dichos números si tienen premio o no, se hace bastante tedioso por las largas colas. La aplicación pretende gestionar los números jugados y dar aviso de si ha sido premiado, cada boleto o número, sin necesidad de ir físicamente. Además de recordar al usuario que debe ir a comprar los boletos que elija entre las opciones, para que no se le olvide jugarlos.
+
+
+# Documentación del proyecto
+ 
+## La documenación del proyecto se puede ver [aquí](https://github.com/kaizensamuel/Proyecto-CC-20-21/tree/main/docs)
