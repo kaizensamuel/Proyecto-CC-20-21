@@ -67,7 +67,7 @@ Para esto tenemos que crear una rama llamada gh-pages e ir a settings :
   ![Direccion gh-pages del proyecto](https://github.com/kaizensamuel/Proyecto-CC-20-21/blob/main/docs/imgs/s1-configuraciones/gh-pages.png)
 
 # Perfil configurado:
-![Perfil GitHub](https://github.com/kaizensamuel/Proyecto-CC-20-21/blob/main/docs/imgs/s1-configuraciones/s1-configuraciones/perfil.png) 
+![Perfil GitHub](https://github.com/kaizensamuel/Proyecto-CC-20-21/blob/main/docs/imgs/s1-configuraciones/perfil.png) 
 
 
 #Servidores que se pueden usar gratis, con una limitación de créditos o tiempo, a partir de los cuales te cobran:
