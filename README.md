@@ -1,3 +1,6 @@
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+
+
 # Proyecto-CC-20-21
 Proyecto para la asignatura de cloud computing 20/21
 
@@ -8,4 +11,4 @@ Hoy en día la gente suele jugar a muchos juegos de azar como la primitiva, el e
 
 # Documentación del proyecto
  
-## La documenación del proyecto se puede ver [aquí](https://github.com/kaizensamuel/Proyecto-CC-20-21/tree/main/docs)
+ La documenación del proyecto se puede ver [aquí](https://github.com/kaizensamuel/Proyecto-CC-20-21/tree/main/docs)
